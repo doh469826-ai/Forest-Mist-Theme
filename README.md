@@ -146,7 +146,7 @@ Forest Mist follows evidence-based design principles:
 
 Found an issue or have a suggestion? We'd love to hear from you!
 
-1. Check existing [issues](https://github.com/forest-themes/forest-mist-vscode/issues)
+1. Check existing [issues](https://github.com/doh469826-ai/Forest-Mist-Theme/issues)
 2. Create a new issue with detailed description
 3. Include screenshots if reporting visual bugs
 4. Specify your VS Code version and operating system
