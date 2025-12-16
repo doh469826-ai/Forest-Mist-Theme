@@ -1,0 +1,48 @@
+{
+    "name": "theme-forest-mist",
+    "version": "1.0.0",
+    "displayName": "Forest Mist",
+    "description": "A calming nature-inspired dark theme with forest and mist colors designed to reduce eye strain and improve focus",
+    "publisher": "forest-themes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": ["Themes"],
+    "keywords": [
+        "forest-mist",
+        "dark",
+        "theme",
+        "color-theme",
+        "nature",
+        "calming",
+        "focus",
+        "productivity"
+    ],
+    "galleryBanner": {
+        "color": "#2d3142",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Forest Mist",
+                "uiTheme": "vs-dark",
+                "path": "./theme/forest-mist.json"
+            },
+            {
+                "label": "Forest Mist Soft",
+                "uiTheme": "vs-dark",
+                "path": "./theme/forest-mist-soft.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/forest-themes/forest-mist-vscode"
+    },
+    "bugs": {
+        "url": "https://github.com/forest-themes/forest-mist-vscode/issues"
+    },
+    "homepage": "https://github.com/forest-themes/forest-mist-vscode#readme"
+}
