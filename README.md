@@ -1,8 +1,46 @@
+<div align="center">
+  <br />
+  <table style="border-collapse: collapse; border-spacing: 0; border: none;">
+    <tr style="border: none;">
+      <td style="border: none;">
+        <img src="https://github.com/doh469826-ai/Forest-Mist-Theme/blob/main/pictures/icon.png?raw=tru" width="120" />
+      </td>
+    </tr>
+  </table>
+  <h1 align="center">🌲 FOREST MIST THEME 🌲</h1>
+  <p align="center">
+    <code style="color: #5f8a5f;">#5f8a5f</code> &nbsp;•&nbsp; 
+    <code style="color: #8fbc8f;">#8fbc8f</code> &nbsp;•&nbsp; 
+    <code style="color: #87ceeb;">#87ceeb</code>
+  </p>
+  <br />
+  <img src="https://github.com/doh469826-ai/Forest-Mist-Theme/blob/main/pictures/ascii-art-text.png?raw=true" width="753" alt="Banner" />
+  <br />
+  <table align="center" style="border-collapse: collapse; border: none; margin-top: 20px;">
+    <tr style="border: none;">
+      <td align="center" width="250" style="border: none;">
+        <p>🌿</p>
+        <b>NATURE BORN</b>
+      </td>
+      <td align="center" width="250" style="border: none;">
+        <p>👁️</p>
+        <b>EYE PROTECTION</b>
+      </td>
+      <td align="center" width="250" style="border: none;">
+        <p>🧠</p>
+        <b>DEEP FOCUS</b>
+      </td>
+    </tr>
+  </table>
+
+  <br />
+  <hr width="100%" size="1" color="#2d332d" />
+</div>
+
+
 # Forest Mist Theme for Visual Studio Code
 
 > A calming nature-inspired dark theme with forest and mist colors designed to reduce eye strain and improve focus during long coding sessions.
-
-![Forest Mist Theme Preview](screenshot.png)
 
 ## 🌲 About
 
@@ -28,11 +66,13 @@ Forest Mist is a carefully crafted VS Code theme that brings the tranquility of 
 - **Mist Blue** `#b0c4de` - Types, secondary elements
 - **Bark Brown** `#8b7355` - Operators, language variables
 
+![Preview](https://github.com/doh469826-ai/Forest-Mist-Theme/blob/main/pictures/how-to-use-1.png?raw=true)
 ### Background Colors
 - **Primary** `#2d3142` - Main editor background
 - **Secondary** `#242936` - Sidebar, panels
 - **Tertiary** `#1a1f2a` - Activity bar, tabs
 
+![Preview](https://github.com/doh469826-ai/Forest-Mist-Theme/blob/main/pictures/how-to-use-2.png?raw=true)
 ### Text Colors
 - **Primary** `#eef0f2` - Main text
 - **Secondary** `#bfc5ca` - Secondary text
@@ -114,16 +154,13 @@ Found an issue or have a suggestion? We'd love to hear from you!
 ## 📸 Screenshots
 
 ### JavaScript
-![JavaScript syntax highlighting](screenshots/javascript.png)
+![JavaScript syntax highlighting](https://github.com/doh469826-ai/Forest-Mist-Theme/blob/main/pictures/example-js.png?raw=true)
 
 ### Python
-![Python syntax highlighting](screenshots/python.png)
-
-### HTML/CSS
-![HTML and CSS syntax highlighting](screenshots/html-css.png)
+![Python syntax highlighting](https://github.com/doh469826-ai/Forest-Mist-Theme/blob/main/pictures/py-ex.png?raw=true)
 
 ### Terminal
-![Integrated terminal colors](screenshots/terminal.png)
+![Integrated terminal colors](https://github.com/doh469826-ai/Forest-Mist-Theme/blob/main/pictures/terminal.png?raw=true)
 
 ## 🏆 Why Choose Forest Mist?
 
